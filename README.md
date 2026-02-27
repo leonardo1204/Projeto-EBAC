@@ -16,7 +16,6 @@ Bibliotecas: Pandas (Tratamento de Dados), NumPy (Cálculos Matemáticos).
 
 BI & Visualização: Looker Studio (Dashboards Interativos).
 
-Cloud: Google Cloud Storage / BigQuery (opcional, se usou).
 
 💡 Principais Insights Apagão Pedagógico: Identificamos que mais de 47.000 escolas operam em regime de "Ausência Total" de recursos tecnológicos e literários.
 
